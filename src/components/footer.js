@@ -5,7 +5,7 @@ function Footer() {
     return (
   
    <Box className='footer_align'>
-      <Typography align="center">© 2023 GainCare Inc.</Typography>
+      <Typography align="center">© 2023 Antlabs.</Typography>
       </Box>
     )
   }

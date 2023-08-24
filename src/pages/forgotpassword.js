@@ -41,7 +41,7 @@ function Copyright(props) {
 
       <Typography variant="body2" color="text.secondary" align="center" {...props}>
         {' © '}
-        2023 GainCare Inc.
+        2023 Antlabs.
 
       </Typography></div>
   );

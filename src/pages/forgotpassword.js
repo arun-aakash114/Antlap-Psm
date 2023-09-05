@@ -41,7 +41,7 @@ function Copyright(props) {
 
       <Typography variant="body2" color="text.secondary" align="center" {...props}>
         {' © '}
-        2023 Antlabs.
+        2023 Ant.
 
       </Typography></div>
   );
@@ -379,7 +379,7 @@ function Forgotpassword() {           //main(parent) function for this page
             />
             <TextField
               margin="normal"
-              required
+              required 
               fullWidth
               id="three"
               name="three"

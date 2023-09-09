@@ -610,7 +610,7 @@ function Informativeitems() {
           {loader == true && <Oval
             height={80}
             width={80}
-            color="#4b61ff"
+            color="#426e81"
             wrapperStyle={{
               position: 'absolute',
               top: '45%',

@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap');
 
 :root {
-  --primary: #4B61FF;
+  --primary: #426e81;
   --secondary: #ea80fc;
   --on-primary: #fafafa;
   --on-secondary: #000504;
@@ -165,7 +165,7 @@ h6 {
   .header-count {
     font-size: 16px;
     padding: 5px 10px;
-    background: #4B61FF;
+    background: #426e81;
     border-radius: 5px;
     /* margin-left: 10px!important; */
     color: #fff;
@@ -198,7 +198,7 @@ h6 {
   .solution-count {
     font-size: 20px;
     padding: 5px 12px;
-    background: #4B61FF;
+    background: #426e81;
     border-radius: 50%;
     color: #fff;
     font-weight: 600 !important;
@@ -209,7 +209,7 @@ h6 {
   .solution-count-result {
     font-size: 20px;
     padding: 5px 12px;
-    background: #4B61FF;
+    background: #426e81;
     border-radius: 50%;
     color: #fff;
     font-weight: 600 !important;
@@ -423,6 +423,8 @@ h6 {
 
   .css-1n7zltw-MuiButtonBase-root-MuiButton-root {
     text-transform: none !important;
+    background-color: #426e81 !important;
+
 
   }
 
@@ -644,7 +646,7 @@ h6 {
 
   .avtar-custom-rect-smll {
     border-radius: 50% !important;
-    background: #1976d2 !important;
+    background: #426e81 !important;
     /* margin-right: 20px; */
     width: 40px !important;
     height: 40px !important;
@@ -685,12 +687,12 @@ h6 {
   }
 
   .avtar-custom-rect svg {
-    color: #4B61FF;
+    color: #426e81;
     font-size: 25px !important;
   }
 
   .avtar-custom-rect-sml svg {
-    color: #4B61FF;
+    color: #426e81;
     font-size: 24px !important;
     cursor: pointer;
   }
@@ -706,7 +708,7 @@ h6 {
   }
 
   svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.lock-btn.css-i4bv87-MuiSvgIcon-root {
-    color: #4b61ff;
+    color: #426e81;
   }
 
   button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.update-btn.css-sghohy-MuiButtonBase-root-MuiButton-root {
@@ -1133,7 +1135,7 @@ h6 {
     border-radius: 50%;
     width: 40px !important;
     height: 40px !important;
-    color: #4b61ff;
+    color: #426e81;
   }
 
   .det_right {
@@ -1183,10 +1185,12 @@ h6 {
   button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.info_btn.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
     border-radius: 8px;
     color: #ffffff;
-    background: #6395ec;
+    background: #426e81 !important;
     margin-bottom: 5px;
   }
-
+  .css-1bptiuh-MuiSvgIcon-root {
+    background-color: #426e81 !important;
+  }
   button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.step_btn.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
     border-radius: 8px;
     color: #ffffff;
@@ -1249,7 +1253,7 @@ h6 {
   span.solution-count-result-bom {
     font-size: 20px;
     padding: 5px 12px;
-    background: #4B61FF;
+    background: #426e81;
     border-radius: 50%;
     color: #fff;
     font-weight: 600 !important;
@@ -1357,7 +1361,7 @@ h6 {
 
   a.s-count {
     font-size: 28px;
-    background: #4b61ff;
+    background: #426e81;
     width: 65px;
     display: flex;
     height: 65px;
@@ -1377,7 +1381,7 @@ h6 {
     border-radius: 50%;
     width: 85px !important;
     height: 40px !important;
-    color: #4b61ff;
+    color: #426e81;
     size: 15pz;
   }
 
@@ -1394,7 +1398,7 @@ h6 {
     border-radius: 50%;
     width: 76px !important;
     height: 40px !important;
-    color: #4b61ff;
+    color: #426e81;
   }
 
   b.alt-row {
@@ -1438,7 +1442,7 @@ h6 {
   /* Algapps Styles 30-12-2022////////////////////////////////////////////////////// */
 
   .primary-btn {
-    background: #4B61FF !important;
+    background: #426e81 !important;
     padding: 10px 50px !important;
     cursor: pointer;
     border-radius: 7px !important;
@@ -1516,7 +1520,7 @@ h6 {
     border-radius: 50%;
     height: 40px;
     font-size: 20px;
-    color: #4b61ff;
+    color: #426e81;
     display: flex;
     align-items: center;
     width: 40px;
@@ -1539,7 +1543,7 @@ h6 {
     flex-direction: column;
     font-size: 10px !important;
     margin-left: 10px !important;
-    color: #4b61ff !important;
+    color: #426e81 !important;
     cursor: pointer;
     padding: 0 !important;
   }

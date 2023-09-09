@@ -710,7 +710,7 @@ function Dashboard() {
     //   label: "Assigned",
     //   originaldata: "Yet to accept",
     //   value: 25,
-    //   color: "#4B61FF"
+    //   color: "#426e81"
     // },
     {
       label: "Accepted",
@@ -745,7 +745,7 @@ function Dashboard() {
 
   ];
   const reactDonutChartBackgroundColor = [
-    "#774dcb",//"#4B61FF",
+    "#774dcb",//"#426e81",
     "#21b457",//"#774DCB",
     "#ffbd4a",//"#FFBD4A",
     "#ffdb4d",// "#FF774D",
@@ -843,7 +843,7 @@ function Dashboard() {
           {loader == true && <Oval
             height={80}
             width={80}
-            color="#4b61ff"
+            color="#426e81"
             wrapperStyle={{
               position: 'absolute',
               top: '45%',
@@ -869,7 +869,7 @@ function Dashboard() {
                   <Stack direction="row" spacing={2} className="actnItem">
 
                     {/* ------------ Item1 ------------ */}
-                    <Item sx={{ background: '#4B61FF', cursor: "pointer" }} className="parent brrd" onClick={() => { navigate('/actionitems', { state: { id: "open", type: "Total" } }) }}>
+                    <Item sx={{ background: '#426e81', cursor: "pointer" }} className="parent brrd" onClick={() => { navigate('/actionitems', { state: { id: "open", type: "Total" } }) }}>
                       <Box className="itemInner">
                         <Typography className="numbr">{opened}</Typography>
                         <CheckIcon />

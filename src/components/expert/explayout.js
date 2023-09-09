@@ -77,10 +77,10 @@ function Explayout({ children }) {
       <List
         sx={{
           [`& .active`]: {
-            color: "#4b61ff",
+            color: "#426e81",
             fontWeight: "bold",
             "& svg": {
-              fill: "#4b61ff"
+              fill: "#426e81"
             }
 
           }
@@ -293,7 +293,7 @@ function Explayout({ children }) {
           </AppBar>
           <Drawer variant="permanent" open={open} PaperProps={{
             sx: {
-              backgroundColor: "#4B61FF",
+              backgroundColor: "#426e81",
               color: "red",
             }
           }}>

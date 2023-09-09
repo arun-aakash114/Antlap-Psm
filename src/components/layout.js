@@ -497,7 +497,7 @@ function Layout({ children }) {
             color: "#000",
             fontWeight: "bold",
             "& svg": {
-              fill: "#4b61ff",
+              fill: "#426e81",
             },
           },
         }}
@@ -774,7 +774,7 @@ function Layout({ children }) {
               open={open}
               PaperProps={{
                 sx: {
-                  backgroundColor: "#4B61FF",
+                  backgroundColor: "#426e81",
                   color: "red",
                 },
               }}

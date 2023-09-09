@@ -163,7 +163,7 @@ const UserManage = () => {
               <CardContent>
               {loading ? ( // If isLoading is true, show the CircularProgress
                             <div className="no_data">
-                            <CircularProgress sx={{ display: 'block', mx: 'auto', my: 4, color: '#4b61ff' }} />
+                            <CircularProgress sx={{ display: 'block', mx: 'auto', my: 4, color: '#426e81' }} />
                             <h5 className="loading_icon">Data Loading...</h5>
                         </div>
                         ) : ( 

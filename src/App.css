@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
 
 :root {
-  --primary: #4b61ff;
+  --primary: #426e81;
   --secondary: #ea80fc;
   --on-primary: #fafafa;
   --on-secondary: #000504;
@@ -132,7 +132,7 @@ h6 {
 .header-count {
   font-size: 20px;
   padding: 5px 15px;
-  background: #4b61ff;
+  background: #426e81;
   border-radius: 5px;
   margin-left: 10px !important;
   color: #fff;
@@ -216,7 +216,7 @@ h6 {
   margin-top: 20px;
 }
 .avtar-custom-rect svg{
-  color: #4B61FF;
+  color: #426e81;
   font-size: 2.5rem!important;
 }
 .avtar-custom-rect-sml svg{
@@ -236,7 +236,7 @@ h6 {
 
 .avtar-custom-rect-smll {
   border-radius: 50% !important;
-  background: #1976d2 !important;
+  background: #426e81 !important;
   /* margin-right: 20px; */
   width: 40px !important;
   height: 40px !important;
@@ -274,12 +274,12 @@ h6 {
 }
 
 .avtar-custom-rect svg {
-  color: #4b61ff;
+  color: #426e81;
   font-size: 25px !important;
 }
 
 .avtar-custom-rect-sml svg {
-  color: #4b61ff;
+  color: #426e81;
   font-size: 24px !important;
   cursor: pointer;
 }
@@ -294,7 +294,7 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.lock-btn.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.update-btn.css-sghohy-MuiButtonBase-root-MuiButton-root {
@@ -353,12 +353,12 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 .btn-primary {
-  background: #4b61ff !important;
+  background: #426e81 !important;
   border-radius: 10px !important;
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.actnSvg.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
   background: white;
   box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
   border-radius: 5px;
@@ -521,7 +521,7 @@ p.MuiTypography-root.MuiTypography-body1.sub-text.css-ahj2mt-MuiTypography-root 
 
 p.card-heading span {
   font-weight: 600;
-  background: #4b61ff;
+  background: #426e81;
   color: #fff;
   padding: 5px 10px;
   border-radius: 5px;
@@ -697,7 +697,7 @@ span.MuiButtonBase-root.MuiTableSortLabel-root.css-1qgma8u-MuiButtonBase-root-Mu
 }
 
 .primary {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .yellow {
@@ -761,7 +761,7 @@ table.table.table-striped p {
 }
 
 a {
-  color: #4b61ff;
+  color: #426e81;
   text-decoration: none;
 }
 
@@ -971,6 +971,7 @@ box.crd-flx .MuiCardContent-root.css-46bh2p-MuiCardContent-root {
   button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButtonBase-root.apply-btn.css-isfcrp-MuiButtonBase-root-MuiButton-root {
     margin: 0 !important;
     width: 100% !important;
+    background-color: #426e81 !important;
   }
 
   .MuiBox-root.css-xi606m {
@@ -1395,7 +1396,7 @@ td.MuiTableCell-root.MuiTableCell-body.MuiTableCell-alignRight.MuiTableCell-size
 } */
 .box-header button.outlined {
   background: none !important;
-  color: #1976d2;
+  color: #426e81;
 }
 
 /* stepper
@@ -1418,7 +1419,7 @@ td.MuiTableCell-root.MuiTableCell-body.MuiTableCell-alignRight.MuiTableCell-size
 
 .avtar-custom-rect-smll {
   border-radius: 50% !important;
-  background: #1976d2 !important;
+  background: #426e81 !important;
   margin-right: 20px;
   width: 40px !important;
   height: 40px !important;
@@ -1529,13 +1530,14 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.lock-btn.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeLarge.MuiButton-containedSizeLarge.MuiButtonBase-root.cpwd-btn.css-jh47zj-MuiButtonBase-root-MuiButton-root {
   width: 38% !important;
   border-radius: 7px !important;
   margin-top: 12px;
+  background-color: #426e81 !important;
 }
 
 p.MuiTypography-root.MuiTypography-body1.fo-reason1.css-ahj2mt-MuiTypography-root {
@@ -1546,6 +1548,7 @@ p.MuiTypography-root.MuiTypography-body1.fo-reason1.css-ahj2mt-MuiTypography-roo
 
 .css-isfcrp-MuiButtonBase-root-MuiButton-root {
   text-transform: none !important;
+  background-color: #426e81 !important;
 }
 
 .css-1ujykiq-MuiButtonBase-root-MuiTab-root {
@@ -1553,7 +1556,7 @@ p.MuiTypography-root.MuiTypography-body1.fo-reason1.css-ahj2mt-MuiTypography-roo
 }
 
 /* .css-1ujykiq-MuiButtonBase-root-MuiTab-root.Mui-selected {
-  color: #1976d2;
+  color: #426e81;
   background-color: #dfe5fa;
 } */
 button.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.MuiTab-fullWidth.Mui-selected.tab-btn.css-1ujykiq-MuiButtonBase-root-MuiTab-root {
@@ -1575,7 +1578,7 @@ p.MuiTypography-root.MuiTypography-body1.fo-reason.css-ahj2mt-MuiTypography-root
 
 .active {
   background-color: #f5f5f5 !important;
-  color: #4b61ff !important;
+  color: #426e81 !important;
   padding-left: 10px !important;
   border-left: 8px solid #fdba43 !important;
 }
@@ -1712,13 +1715,13 @@ p.MuiTypography-root.MuiTypography-body2.MuiTypography-alignCenter.copyright.css
 a.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.sb_icon.css-bshv44-MuiButtonBase-root-MuiListItem-root.active
   .MuiListItemText-root.css-tlelie-MuiListItemText-root
   span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 a.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.sb_icon.css-1p823my-MuiListItem-root.active
   .MuiListItemText-root.css-tlelie-MuiListItemText-root
   span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .MuiFormControl-root.Srch-fld-color.css-1nrlq1o-MuiFormControl-root {
@@ -1726,7 +1729,7 @@ a.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.sb_icon.css-1p823my-M
 }
 
 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.search-icon.css-i4bv87-MuiSvgIcon-root {
-  color: #4b61ff;
+  color: #426e81;
   cursor: pointer;
 }
 
@@ -1784,7 +1787,7 @@ p.MuiTypography-root.MuiTypography-body1.fd-step.css-ahj2mt-MuiTypography-root {
 .solution-count-result {
   font-size: 20px;
   padding: 5px 12px;
-  background: #4b61ff;
+  background: #426e81;
   border-radius: 50%;
   color: #fff;
   font-weight: 600 !important;
@@ -1826,7 +1829,7 @@ p.MuiTypography-root.MuiTypography-body1.fd-step.css-ahj2mt-MuiTypography-root {
 .solution-count {
   font-size: 20px;
   padding: 5px 12px;
-  background: #4b61ff;
+  background: #426e81;
   border-radius: 50%;
   color: #fff;
   font-weight: 600 !important;
@@ -1975,7 +1978,7 @@ img.actnSvg {
   height: 10px !important;
   margin-left: -5px !important;
   top: -3px !important;
-  background: #4b61ff !important;
+  background: #426e81 !important;
 }
 
 span.spl-t {
@@ -2331,7 +2334,7 @@ button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-s
 }
 
 .btn-primary {
-  background-color: #4b61ff !important;
+  background-color: #426e81 !important;
   border-radius: 10px !important;
   margin-right: 10px;
   color: #fffcfc !important;
@@ -2603,6 +2606,7 @@ input:-webkit-autofill:active {
 } */
   button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.css-1n7zltw-MuiButtonBase-root-MuiButton-root {
     margin-bottom: 0;
+    background-color: #426e81 !important;
   }
 
   .meet-field {
@@ -2611,6 +2615,7 @@ input:-webkit-autofill:active {
 
   .show-detail.MuiBox-root.css-0 {
     margin-bottom: 0;
+
   }
 }
 
@@ -2626,7 +2631,7 @@ label.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInp
 }
 
 .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
-  color: #1976d2;
+  color: #426e81;
   background: #f5f5f5;
   padding: 0px 5px;
   margin-left: -3px;
@@ -2724,6 +2729,9 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeLarge.moreicon.cs
 .meet-float {
   left: 10px !important;
   margin-bottom: 10px !important;
+}
+.css-1bptiuh-MuiSvgIcon-root {
+ color: #426e81 !important;
 }
 
 .meet-float
@@ -2857,7 +2865,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeLarge.moreicon.cs
 .ic-single.stage2.css-sghohy-MuiButtonBase-root-MuiButton-root {
   background: #fff !important;
   padding: 15px !important;
-  color: #4b61ff;
+  color: #426e81;
   box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
 }
 
@@ -2878,7 +2886,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeLarge.moreicon.cs
 }
 
 button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.css-sghohy-MuiButtonBase-root-MuiButton-root {
-  background: #4b61fe;
+  background: #426e81;
 }
 
 .card-btns button {
@@ -2906,9 +2914,9 @@ button.MuiButton-containedSecondary {
 
 button.back-btn {
   background: #fff !important;
-  border: 1px solid #4b61ff;
+  border: 1px solid #426e81;
   padding: 7.8px 10px;
-  color: #4b61ff !important;
+  color: #426e81 !important;
   box-shadow: rgb(163 163 163 / 14%) 0px 8px 24px;
 }
 
@@ -3118,11 +3126,11 @@ div#panel1a-header {
 }
 
 .text-primary {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .text-light {
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .text-light {
@@ -3202,7 +3210,7 @@ div#panel1a-header {
   width: 45px;
   height: 45px;
   top: 6px;
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .resol_path {
@@ -3310,7 +3318,7 @@ input#outlined-basic {
   margin-top: 64px;
   box-shadow: none;
   width: 350px;
-  border-right: 2px solid #4b61ff;
+  border-right: 2px solid #426e81;
   background-color: #ecf0ff;
 }
 
@@ -3374,7 +3382,7 @@ input#outlined-basic {
 .masters-menu
   .Mui-expanded
   .css-uvvswg-MuiButtonBase-root-MuiAccordionSummary-root {
-  background-color: #4b61ff !important;
+  background-color: #426e81 !important;
   color: #fff;
 }
 
@@ -3382,7 +3390,7 @@ input#outlined-basic {
   .Mui-expanded
   .css-uvvswg-MuiButtonBase-root-MuiAccordionSummary-root
   svg {
-  /* background-color: #4B61FF !important; */
+  /* background-color: #426e81 !important; */
   color: #fff;
 }
 
@@ -3411,7 +3419,7 @@ input#outlined-basic {
 }
 
 li.MuiBreadcrumbs-li a {
-  color: #4b61fe;
+  color: #426e81;
   font-size: 14px;
 }
 
@@ -3427,7 +3435,7 @@ label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLab
 button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton-sizeSmall.css-1bkxqye-MuiButtonBase-root-MuiIconButton-root {
   background: none;
   box-shadow: none;
-  color: #4b61ff;
+  color: #426e81;
   margin-left: 0;
   padding: 0;
 }
@@ -3443,7 +3451,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton
 
 .us-cs-down {
   background: #eaedfd !important;
-  color: #4b61ff !important;
+  color: #426e81 !important;
   border-radius: 10px !important;
   padding: 8px !important;
 }
@@ -3459,18 +3467,18 @@ div#demo-popup-popper
   li.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.MuiMenuItem-root.MuiMenuItem-gutters.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root
   svg {
   margin-right: 10px;
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .bck-btn {
-  border: 1px solid #4b61ff !important;
+  border: 1px solid #426e81 !important;
   background: #fff !important;
-  color: #4b61ff !important;
+  color: #426e81 !important;
   box-shadow: none !important;
 }
 
 button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorPrimary.MuiIconButton-sizeMedium.css-1kuq5xv-MuiButtonBase-root-MuiIconButton-root {
-  background: #4b61ff;
+  background: #426e81;
   color: #fff;
 }
 
@@ -3513,7 +3521,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorPrimary.MuiIconB
 .customer-create .top svg {
   width: 30px;
   height: 30px;
-  color: #4b61ff;
+  color: #426e81;
   margin-right: 10px;
 }
 
@@ -3533,7 +3541,7 @@ input#bootstrap-input {
 }
 
 .css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked {
-  color: #4b61ff !important;
+  color: #426e81 !important;
 }
 
 .css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked
@@ -3588,11 +3596,11 @@ input#bootstrap-input {
 }
 
 /* button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
-    background-color: #4b61ff;
+    background-color: #426e81;
     color: white;
 } */
 .color {
-  background-color: #1976d2;
+  background-color: #426e81;
 }
 
 .user {
@@ -3641,7 +3649,7 @@ input#bootstrap-input {
   display: flex;
   font-size: 14px;
   align-items: center;
-  color: #4b61ff;
+  color: #426e81;
   margin-right: 15px;
 }
 
@@ -3715,7 +3723,7 @@ input#bootstrap-input {
   padding: 15px;
   border-radius: 15px;
   box-shadow: rgb(0 0 0 / 4%) 0px 4px 12px;
-  border-top: 4px solid #4b61ff;
+  border-top: 4px solid #426e81;
 }
 
 .MuiBox-root.css-8teumg br {
@@ -4034,7 +4042,7 @@ button {
   width: 32px;
   height: 32px;
   border-radius: 50px;
-  background-color: #4b61ff;
+  background-color: #426e81;
   position: absolute;
   right: 20px;
   display: flex;
@@ -4058,7 +4066,7 @@ button {
   width: 32px;
   height: 32px;
   border-radius: 50px;
-  background-color: #4b61ff;
+  background-color: #426e81;
   position: absolute;
   display: flex;
   align-items: center;
@@ -4097,7 +4105,7 @@ button {
   width: 50px;
   height: 32px;
   /* border-radius: 50px; */
-  /* background-color: #4B61FF; */
+  /* background-color: #426e81; */
   position: absolute;
   display: flex;
   align-items: center;
@@ -4140,7 +4148,7 @@ label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-animated.MuiInputLabel-
 }
 .loading_icon {
   text-align: center;
-  color: #4b61ff;
+  color: #426e81;
 }
 
 .css-15jouwe-MuiList-root .active svg {
@@ -4167,7 +4175,7 @@ label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-animated.MuiInputLabel-
   color: #3d3d3d;
 }
 .action_color {
-  color: #1976d2 !important;
+  color: #426e81 !important;
   font-weight: 600 !important;
 }
  

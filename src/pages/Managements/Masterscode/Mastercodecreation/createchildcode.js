@@ -68,7 +68,7 @@ function Createchildcode() {
                 <FormControl variant="outlined">
 
                 </FormControl>
-                <Link to="/managechildcodes" > <Button type='button' variant="contained"> Back </Button></Link>
+                <Link to="/managechildcodes" > <Button type='button' variant="contained"  > Back </Button></Link>
               </div></div>
             <Createchildapi />
           </Box>

@@ -61,7 +61,7 @@ function Createchildcode() {
                     SMCS Child Codes List
                   </Link>
 
-                  <Typography color="text.primary">Create</Typography>
+                  <Typography color="text.primary" >Create</Typography>
                 </Breadcrumbs>
                 <h2 className="page-heding">Create SMCS Child Code</h2>
               </div>  <div className='right'>

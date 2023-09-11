@@ -545,7 +545,7 @@ button.outlined {
 }
 
 .box-header button {
-  background: rgb(74, 95, 255);
+  background: #426e81;
   border-radius: 5px;
   color: white;
   box-shadow: rgba(75, 96, 253, 0.181) 0px 8px 14px;
@@ -553,7 +553,7 @@ button.outlined {
 }
 
 .box-header button:hover {
-  background: #2e41d1;
+  background: #426e81;
 }
 
 input#outlined-search {
@@ -1458,6 +1458,7 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton
 
 .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
   text-transform: none !important;
+  color: #426e81 !important;
 }
 
 .css-ci5apu-MuiSvgIcon-root {
@@ -1492,11 +1493,14 @@ button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton
 
 .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
   font-weight: 600 !important;
+  color: #426e81 !important;
+
 }
 
 button.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButtonBase-root.arrow-btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
   color: #999999;
   background-color: white;
+  
 }
 
 .meet-btn {
